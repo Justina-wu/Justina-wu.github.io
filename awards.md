@@ -4,26 +4,30 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th Sep 2024
+> Update: 28th Feb 2025
 
 ## Scholarships
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- Dec 2024: **Third Prize Scholarship** in Xidian University
+- Nov 2023: **Special Prize Scholarship** in Xidian University
+- Oct 2022: **First Prize Scholarship** in Northwest University 
+- Oct 2021: **First Prize Scholarship** in Northwest University 
+- Oct 2020: **First Prize Scholarship** in Northwest University 
 
 ## Competitions
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- Nov 2021: **National Bronze Award** in China International Internet + College Students Innovation and Entrepreneurship Competition
+- Nov 2021: **National Bronze Award** in China International Internet + College Students Innovation and Entrepreneurship Competition
+- Sep 2021: **Shaanxi Province Silver Award** in China International College Students Internet + Innovation and Entrepreneurship Competition 
+- Mar 2021: **Third Prize** of Northwest Division in China College Students Computer Design Competition
+- Dec 2020: **Second Prize** of Shaanxi Province in National College Students Mathematical Modeling Competition <br>
+
+## Honors
+
+- Mar 2023: **Outstanding Graduates of Shaanxi Province**'s General Colleges and Universities
+- Mar 2023: **Outstanding Graduates** of Northwest University
+- Mar 2022: **Outstanding Student Leaders** of Northwest University
+- Nov 2021: Excellent Learning Group of Northwest University (class)
+- Nov 2020: Excellent Learning Group of Northwest University (dormitory)
 
 <br>
