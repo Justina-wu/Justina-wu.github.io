@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /schoolexperience/index.html
+permalink: /schoolexperiences/index.html
 title: School Experiences
 ---
 
