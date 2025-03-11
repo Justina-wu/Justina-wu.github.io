@@ -8,7 +8,7 @@ title: School Experiences
 
 ##### Selected as a graduate representative to give a speech at the graduation ceremony!
 
-<img src="/images/speak.JPG">
+<img src="speak.jpg">
 
 ##### Student Union of School of Information Science and Technology | Chairman | 2019.09-2022.06
 
