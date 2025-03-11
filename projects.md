@@ -8,12 +8,10 @@ title: Projects
 
 ##### Research on Privacy Preservation Schemes in Personalized Federated Learning | 2023.09 - Present
 
-##### 个性化联邦学习中的隐私保护方案研究 | 2023.09 - Present
-
 - This topic focuses on optimizing personalized federated learning algorithms and privacy-preserving technologies, achieving personalized and efficient resource utilization, effectively improving personalized performance, and efficiently completing privacy protection. 
 - The project results will be published as a paper (as the **first author**): “FedCuckoo: Privacy-Preserving Personalized Federated Learning with Dynamic Parameter Selection”. (Unposted)
 
-<br>
+
 
 ##### Research and Demonstration Application of Key Technologies for Secure and Trustworthy Data Circulation and Transaction | 2025.01 - Present
 
