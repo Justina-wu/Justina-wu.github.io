@@ -30,6 +30,6 @@ title: Awards
 - Nov 2021: Excellent Learning Group of Northwest University (class)
 - Nov 2020: Excellent Learning Group of Northwest University (dormitory)
 
-<img src="E:\A-WJY\1\Github-website\Justina-wu.github.io\images\undergraduate.jpg"/>
+![undergraduate](E:\A-WJY\1\Github-website\Justina-wu.github.io\images\undergraduate.jpg)
 
 <br>

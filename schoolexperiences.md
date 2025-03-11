@@ -8,7 +8,7 @@ title: School Experiences
 
 ##### Selected as a graduate representative to give a speech at the graduation ceremony!
 
-<img src="images\speak.jpg"/>
+![speak](E:\A-WJY\1\Github-website\Justina-wu.github.io\images\speak.jpg)
 
 
 
