@@ -29,6 +29,6 @@ My current research focuses on Federated Learning and privacy preservation, focu
 
 ## News and Updates
 
-- TBC
+- 2023.06 Selected as a **graduate representative** to give a speech at the graduation ceremony!
 
 <br>
