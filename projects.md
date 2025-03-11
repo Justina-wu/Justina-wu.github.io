@@ -18,14 +18,14 @@ title: Projects
 - This project is a joint fund project of the **National Natural Science Foundation of China**. This project aims at the problems of privacy leakage and lack of supervision in big data transactions, and studies the circulation security and privacy protection mechanism of data transactions, and the intelligent security supervision scheme for multi-source data circulation transactions. 
 - I am involved in the design of trusted security privacy computing technology for multi-source heterogeneous data and privacy protection schemes for multi-source data circulation transactions.
 
-<br>
+
 
 ##### Commodity supply chain financial services based on blockchain technology | 2023.09 - Present
 
 - This project is a **key research and development plan of Shaanxi Province**. The project proposes a data security and fair aggregation technology based on blockchain, combining blockchain technology with data security aggregation technology, and combining federated learning to achieve fair allocation of resources.
 - I am responsible for designing a dynamic contribution evaluation method for multi-party cooperative computing to realize a collaborative learning model.
 
-<br>
+
 
 ##### Research on plant disease detection technology based on computer vision | 2022.10-2023.04
 
@@ -36,7 +36,7 @@ title: Projects
   - **Jiayi Wu** et al., "Plant Disease Detection: Electronic System Design Empowered with Artificial Intelligence," 2023 IEEE Conference on AgriFood Electronics, Torino, Italy, 2023. (**Published**)
   - **Jiayi Wu** et al., "Strawberry Disease Detection Through an Advanced Squeeze-and-Excitation Deep Learning Model," in IEEE Transactions on AgriFood Electronics, vol. 2, no. 2, pp. 259-267, 2024. (**Published**)
 
-<br>
+
 
 ##### Mango, a traction-type intelligent guide car for the blind | Project Leader | 2021.09-2021.11
 
@@ -44,4 +44,3 @@ title: Projects
 - I designed and implemented the voice broadcast and obstacle detection modules, enabling real-time environmental awareness via sensors and API-based weather retrieval. Additionally, I utilized TensorFlow for real-time obstacle detection and classification, enhancing navigation safety. 
 - The project results were published as the **first author** in the EI conference paper: **Jiayi Wu** et al., "Smart Guide Trolley Mango: Smart Blind Guide Device Based on Raspberry Pi," 2022 IEEE International Conference on Electrical Engineering, Big Data and Algorithms (EEBDA), Changchun, China, 2022. (**Published**)
 
-<br>
