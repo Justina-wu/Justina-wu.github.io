@@ -8,7 +8,7 @@ title: School Experiences
 
 ##### Selected as a graduate representative to give a speech at the graduation ceremony!
 
-<img src="images\speak.jpg" style="zoom:25%;" />
+<img src="images\speak.jpg"/>
 
 
 
