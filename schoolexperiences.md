@@ -8,9 +8,11 @@ title: School Experiences
 
 ##### Selected as a graduate representative to give a speech at the graduation ceremony!
 
-![speak](E:\A-WJY\1\Github-website\Justina-wu.github.io\images\speak.jpg)
+<div>
 
+<img src="/images/speak.JPG">
 
+</div>
 
 ##### Student Union of School of Information Science and Technology | Chairman | 2019.09-2022.06
 
