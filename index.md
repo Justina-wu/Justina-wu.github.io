@@ -12,7 +12,7 @@ I am currently pursuing a <u>master's degree</u> in the School of Telecommunicat
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - justina_wu@163.com or jiayiwu@stu.xidian.edu.cn
 
-**<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**
+<!-- **<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>** -->
 
 ---
 

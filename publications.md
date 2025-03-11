@@ -6,9 +6,8 @@ title: Publications
 
 ## Degree Thesis
 
-- FedCuckoo: Privacy-Preserving Personalized Federated Learning with Dynamic Parameter
+- FedCuckoo: Privacy-Preserving Personalized Federated Learning with Dynamic Parameter Selection<br>**Jiayi Wu**
 
-  Selection<br>**Jiayi Wu**
 
 <br>
 
