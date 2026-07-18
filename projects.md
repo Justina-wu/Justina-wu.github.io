@@ -6,21 +6,21 @@ title: Projects
 
 ## Projects
 
-##### Research on Privacy Preservation Schemes in Personalized Federated Learning | 2023.09 - Present
+##### Research on Privacy Preservation Schemes in Personalized Federated Learning | 2023.09 - 2026.05
 
 - This topic focuses on optimizing personalized federated learning algorithms and privacy-preserving technologies, achieving personalized and efficient resource utilization, effectively improving personalized performance, and efficiently completing privacy protection. 
 - The project results will be published as a paper (as the **first author**): “FedCuckoo: Privacy-Preserving Personalized Federated Learning with Dynamic Parameter Selection”. (Unposted)
 
 
 
-##### Research and Demonstration Application of Key Technologies for Secure and Trustworthy Data Circulation and Transaction | 2025.01 - Present
+##### Research and Demonstration Application of Key Technologies for Secure and Trustworthy Data Circulation and Transaction | 2025.01 - 2026.05
 
 - This project is a joint fund project of the **National Natural Science Foundation of China**. This project aims at the problems of privacy leakage and lack of supervision in big data transactions, and studies the circulation security and privacy protection mechanism of data transactions, and the intelligent security supervision scheme for multi-source data circulation transactions. 
 - I am involved in the design of trusted security privacy computing technology for multi-source heterogeneous data and privacy protection schemes for multi-source data circulation transactions.
 
 
 
-##### Commodity supply chain financial services based on blockchain technology | 2023.09 - Present
+##### Commodity supply chain financial services based on blockchain technology | 2023.09 - 2026.05
 
 - This project is a **key research and development plan of Shaanxi Province**. The project proposes a data security and fair aggregation technology based on blockchain, combining blockchain technology with data security aggregation technology, and combining federated learning to achieve fair allocation of resources.
 - I am responsible for designing a dynamic contribution evaluation method for multi-party cooperative computing to realize a collaborative learning model.
